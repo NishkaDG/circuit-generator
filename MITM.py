@@ -1,8 +1,6 @@
-#Modify the path. No need for a method in the gates file. Mapping to a,b,c,d already done except in Notidentity.
-
 #Meet-in-the-middle version
 
-#Currently deleting in every batch.
+#Currently deleting most unnecessary s-boxes in every batch for space constraints.
 
 #Version for only reversible gates.
 #The same gates every time: CNOT, Toff, NOT.
